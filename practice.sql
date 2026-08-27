@@ -1,0 +1,10 @@
+show tables from  park;
+select *from employee;
+select *from employee where email like "%i";
+select *from employee where emp_id=4;
+select emp_name,salary from employee;
+select distinct salary from employee ;
+desc employee;
+show databases;
+show tables from park;
+select *from employee;
